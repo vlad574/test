@@ -59,6 +59,8 @@ ul li {
     height: 350px;
     background-position: center 0;
     position: relative;
+    width: 1000px;
+    margin: 0px auto;
 }
 .eyes img{
     display: none;
@@ -72,13 +74,13 @@ ul li {
 .eyes.close{
     background-position: center 82.5%;
 }
-.l-eye{
-    left: 28.2%;
-    bottom: 7px;
+.l-eye {
+    left: 9.6%;
+    bottom: 6px;
     z-index: 2;
 }
 .r-eye {
-    right: 26.8%;
+    right: 7%;
     bottom: 4px;
     z-index: 2;
 }

@@ -84,12 +84,12 @@ function actionPupilCreate(item,el){
 function createItemAnswer(type){
     if(type){
         var item = `<span>
-            <img src="/img/ansOk.png" alt="">
+            <img src="/test/img/ansOk.png" alt="">
                 Верно
             </span>`
     }else{
         var item =`<span>
-            <img src="/img/nsErr.png" alt="">
+            <img src="/test/img/nsErr.png" alt="">
                 Не верно
             </span>`
     }
